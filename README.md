@@ -1,6 +1,6 @@
 # Hi, I'm Jayesh 👋
 
-Data Scientist with nearly 2 years of experience in Machine Learning, Generative AI, NLP, Analytics, and Python. I enjoy building AI-powered solutions that solve real-world business problems.
+Data Scientist with 2 years of experience in Machine Learning, Generative AI, NLP, Analytics, and Python. I enjoy building AI-powered solutions that solve real-world business problems.
 
 ## 🚀 Currently Working On
 
