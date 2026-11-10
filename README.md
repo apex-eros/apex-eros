@@ -1,25 +1,34 @@
-# Hi, I'm Jayesh 👋
+# Hi, I'm Jayesh
 
-Data Scientist with 2 years of experience in Machine Learning, Generative AI, NLP, Analytics, and Python. I enjoy building AI-powered solutions that solve real-world business problems.
+**Data Scientist | Machine Learning | Generative AI | NLP**
 
-## 🚀 Currently Working On
+I'm a data professional with 2 years of overall experience across Product Analytics, Data Science and Machine Learning. I enjoy building end-to-end AI/ML solutions, exploring LLM applications, and deploying machine learning models to solve real-world business problems.
 
-- Credit Risk Modeling & Analytics
-- Generative AI and RAG Applications
-- MLOps and Cloud Deployment (AWS)
-- End-to-end Machine Learning Projects
+## 🚀 Areas of Interest
+
+Machine Learning & Predictive Modeling
+
+Credit Risk Analytics & Fraud Detection
+
+Generative AI, LLMs & RAG Applications
+
+NLP & Deep Learning
+
+MLOps, Model Deployment & AWS
 
 ## 🛠️ Tools & Technologies
 
 **Languages:** Python, SQL
 
-**Data & Analytics:** Pandas, NumPy, Excel, Power BI, Looker Studio
+**Data & Analytics:** Pandas, NumPy, Excel, Power BI, Looker Studio, Matplotlib, Seaborn
 
-**Machine Learning:** Scikit-learn, TensorFlow, XGBoost
+**Machine Learning:** Scikit-learn, TensorFlow, XGBoost, Feature Engineering, Model Evaluation
 
-**Generative AI:** LLMs, LangChain, Hugging Face, FAISS, RAG
+**Generative AI:** LLMs, LangChain, Hugging Face, FAISS, RAG, Transformers
 
-**Deployment & Cloud:** FastAPI, AWS, Git, MLflow
+**Backend & Deployment:** FastAPI, Docker, REST APIs
+
+**Cloud & MLOps:** FastAPI, AWS (EC2, S3, IAM, ECR), Git, MLflow, GitHub Actions
 
 ## 📫 Connect With Me
 
@@ -27,4 +36,4 @@ Data Scientist with 2 years of experience in Machine Learning, Generative AI, NL
 
 ---
 
-*"Turning data into intelligent products with AI and analytics."*
+*"💡 Building intelligent solutions through data, machine learning and AI."*
